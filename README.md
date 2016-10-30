@@ -2,7 +2,7 @@ This is a basic Ruby on Rails web app for invoices and earnings reports, complet
 
 Team members and roles:
 - <a href="https://github.com/MCKnute">Mollie Knute</a> - Team lead, idea inception, database and front-end design, at-large merging and troubleshooting, URL-paramatization of reports
-- <a href="https://github.com/reyesr3">Ryan Reyes</a> - Stripe API integration, CRUD functionality for Contacts Dashboard, heavy research into Prawn gem (ultimately not integrated into project)
+- <a href="https://github.com/reyesr3">Ryan Reyes</a> - Stripe API integration, CRUD functionality for Clients Dashboard, heavy research into Prawn gem (ultimately not integrated into project)
 - <a href="https://github.com/kangpeter5">Pete Kang</a> - Reports functionality
 - <a href="https://github.com/gkwong85">Garrick Kwong</a> - Company dashboard, CRUD functionality using Bootstrap modals
 
